@@ -20,7 +20,7 @@ Click on the logos to get some quick impressions of my code and repositories, be
 Feel free to also look freely through my repositories, in case you're curious about what projects I have worked on in general.
 
 ## &#127861; Hope you find what you're looking for!
-And enjoy ;)
+**And enjoy ;)**
 
 <!--
 **Andruchne/Andruchne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
