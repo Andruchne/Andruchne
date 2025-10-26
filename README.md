@@ -1,7 +1,7 @@
 ## Hello and welcome to my GitHub page!
 
 My name is Andreas Degtjarow, and I'm a game developer currently studying at Saxion University of Applied Sciences.<br>
-In here you will find most of the projects I have worked on, both solo and within groups.<br>
+In here you will find most of the projects I have worked on, both solo and within a group.<br>
 If you're curious about who I am and want to see the results of the projects, you can visit either my&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andreas-degtjarow-1a237a269/" target="_blank" rel="noreferrer"> <img src="https://github.com/Andruchne/Andruchne/blob/main/Logos/LinkedIn.svg" alt="linkedin" width="35" height="35"/></a>&nbsp;
 or my&nbsp;
